@@ -12,8 +12,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,javascript,html,css,bootstrap,flask"/>
-    <img src="https://skillicons.dev/icons?i=python,java,git"/>
+    <img src="https://skillicons.dev/icons?i=python,java"/>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react,flask,github,git"/>
   </a>
 </div>
 
